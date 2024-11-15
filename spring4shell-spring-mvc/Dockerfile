@@ -1,4 +1,4 @@
-FROM tomcat:9.0.60-jre11-openjdk-slim
+FROM tomcat:9.0.65-jre11-openjdk-slim
 MAINTAINER 'dotnes'
 WORKDIR /usr/local/tomcat/
 
